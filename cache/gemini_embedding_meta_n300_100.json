@@ -1,0 +1,8 @@
+{
+  "model": "gemini-embedding-001",
+  "train_n": 300,
+  "test_n": 100,
+  "subset": true,
+  "batch_size": 8,
+  "rpm_limit": 90
+}
