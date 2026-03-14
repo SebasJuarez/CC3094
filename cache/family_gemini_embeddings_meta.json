@@ -1,0 +1,14 @@
+{
+  "request_day": "2026-03-13",
+  "requests_today": 10,
+  "last_request_ts": 1773462692.232359,
+  "model": "gemini-embedding-001",
+  "batch_size": 4,
+  "min_wait_seconds": 125,
+  "daily_request_limit": 10,
+  "documents_total": 40,
+  "documents_embedded": 40,
+  "last_completed_batch": 10,
+  "embedding_dim": 3072,
+  "completed": true
+}
