@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+
+CASIA2/
+AU/
+
 # Distribution / packaging
 .Python
 build/
